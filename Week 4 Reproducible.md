@@ -67,6 +67,7 @@ The application is build using Shiny package and the source code is in 2 files:
 - `server.R`
 
 Both files can be found here: [GitHub repo](https://github.com/rohitgupta5/Shiny-App-and-Reproducible-Research)
+[RPub] (http://rpubs.com/rohitgupta5/shiny) 
 
 Application functionality
 ========================================================
