@@ -1,16 +1,10 @@
-Week 4 Reproducible
-========================================================
-author: Rohit Gupta
-date: 08/15/2017
-autosize: true
-
-Diamond price prediction
+Week 4 Shiny Application and Reproducible
 ========================================================
 author: Rohit Gupta
 date: 08/19/2017
 autosize: true
-transition: rotate
-transition-speed: slow
+
+
 
 Overview
 ========================================================
@@ -46,7 +40,7 @@ The application is build using Shiny package and the source code is in 2 files:
 - `server.R`
 
 Both files can be found here: [GitHub repo](https://github.com/rohitgupta5/Shiny-App-and-Reproducible-Research)
-[RPub] (http://rpubs.com/rohitgupta5/shiny) 
+[RPub] (http://rpubs.com/rohitgupta5/shiny2) 
 
 Application functionality
 ========================================================
